@@ -7,5 +7,5 @@ begin
   writeln('ingrese el segundo numero');
   readln('n2');
   resultado
-  writeln('n1+n2', resultado:=)
+  writeln('n1+n2', resultado:=);
 end.
