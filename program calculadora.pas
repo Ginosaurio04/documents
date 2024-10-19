@@ -1,4 +1,4 @@
-program calculadora;
+program calculdora;
 var
 n1,n2, resultado: integer;
 begin
