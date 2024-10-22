@@ -8,4 +8,5 @@ begin
   readln('n2');
   resultado:= n1 + n2
   writeln('el resultado de la suma es:');
+  real(resultado);
 end.
