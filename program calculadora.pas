@@ -7,6 +7,6 @@ begin
   writeln('ingrese el segundo numero');
   readln('n2');
   resultado:= n1 + n2
-  writeln('el resultado de la suma es:');
-  readln(resultado);
+  writeln('el resultado de la suma es:'resultado:= 0,2);
+  
 end.
